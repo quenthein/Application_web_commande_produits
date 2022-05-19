@@ -1,0 +1,11 @@
+
+.classpath
+conf/application.properties
+pom.xml
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/fr.epsi.rennes.poec/pizza/pom.properties
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.m2e.core.prefs
+src/main/java/fr/epsi/rennes/poec/conf/SpringSecurityConfig.java
+.project
